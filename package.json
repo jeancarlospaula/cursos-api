@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "router": "^1.3.6"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancarlospaula/cursos-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancarlospaula/cursos-api/issues"
+  },
+  "homepage": "https://github.com/jeancarlospaula/cursos-api#readme",
+  "description": ""
+}
