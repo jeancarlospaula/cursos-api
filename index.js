@@ -1,6 +1,6 @@
 const express = require('express')
 const rotas = require('./Rotas/rotas')
-const port = process.env.port || 3000
+const port = process.env.port
 
 const app = express()
 
